@@ -1,2 +1,2 @@
 # example
-this is just exapmle
+this is just example the example
